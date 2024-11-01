@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\BTH3_TrinhHoa_23520508\\Bai03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0509347A-5E83-4091-87D1-BDDCACD39132}|Bai03\\Bai03.csproj|d:\\c#\\bth3_trinhhoa_23520508\\bai03\\bai03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0509347A-5E83-4091-87D1-BDDCACD39132}|Bai03\\Bai03.csproj|solutionrelative:bai03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0509347A-5E83-4091-87D1-BDDCACD39132}|Bai03\\Bai03.csproj|d:\\c#\\bth3_trinhhoa_23520508\\bai03\\bai03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0509347A-5E83-4091-87D1-BDDCACD39132}|Bai03\\Bai03.csproj|solutionrelative:bai03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0509347A-5E83-4091-87D1-BDDCACD39132}|Bai03\\Bai03.csproj|d:\\c#\\bth3_trinhhoa_23520508\\bai03\\bai03\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0509347A-5E83-4091-87D1-BDDCACD39132}|Bai03\\Bai03.csproj|solutionrelative:bai03\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\BTH3_TrinhHoa_23520508\\Bai03\\Bai03\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Bai03\\Form1.Designer.cs",
+              "ToolTip": "D:\\C#\\BTH3_TrinhHoa_23520508\\Bai03\\Bai03\\Form1.Designer.cs",
+              "RelativeToolTip": "Bai03\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:28:18.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#\\BTH3_TrinhHoa_23520508\\Bai03\\Bai03\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai03\\Form1.cs",
+              "ToolTip": "D:\\C#\\BTH3_TrinhHoa_23520508\\Bai03\\Bai03\\Form1.cs",
+              "RelativeToolTip": "Bai03\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:26:03.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\BTH3_TrinhHoa_23520508\\Bai03\\Bai03\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai03\\Form1.cs",
+              "ToolTip": "D:\\C#\\BTH3_TrinhHoa_23520508\\Bai03\\Bai03\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai03\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:21:07.051Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

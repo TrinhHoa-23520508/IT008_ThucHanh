@@ -1,0 +1,10 @@
+D:\C#\BTH3_TrinhHoa_23520508\Bai02\Bai02\bin\Debug\Bai02.exe.config
+D:\C#\BTH3_TrinhHoa_23520508\Bai02\Bai02\bin\Debug\Bai02.exe
+D:\C#\BTH3_TrinhHoa_23520508\Bai02\Bai02\bin\Debug\Bai02.pdb
+D:\C#\BTH3_TrinhHoa_23520508\Bai02\Bai02\obj\Debug\Bai02.csproj.AssemblyReference.cache
+D:\C#\BTH3_TrinhHoa_23520508\Bai02\Bai02\obj\Debug\Bai02.Form1.resources
+D:\C#\BTH3_TrinhHoa_23520508\Bai02\Bai02\obj\Debug\Bai02.Properties.Resources.resources
+D:\C#\BTH3_TrinhHoa_23520508\Bai02\Bai02\obj\Debug\Bai02.csproj.GenerateResource.cache
+D:\C#\BTH3_TrinhHoa_23520508\Bai02\Bai02\obj\Debug\Bai02.csproj.CoreCompileInputs.cache
+D:\C#\BTH3_TrinhHoa_23520508\Bai02\Bai02\obj\Debug\Bai02.exe
+D:\C#\BTH3_TrinhHoa_23520508\Bai02\Bai02\obj\Debug\Bai02.pdb

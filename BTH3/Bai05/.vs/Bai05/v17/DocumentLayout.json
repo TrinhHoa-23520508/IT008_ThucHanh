@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\BTH3_TrinhHoa_23520508\\Bai05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB361D83-A3FA-47A2-BF1D-F506D1296E64}|Bai05\\Bai05.csproj|d:\\c#\\bth3_trinhhoa_23520508\\bai05\\bai05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB361D83-A3FA-47A2-BF1D-F506D1296E64}|Bai05\\Bai05.csproj|solutionrelative:bai05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB361D83-A3FA-47A2-BF1D-F506D1296E64}|Bai05\\Bai05.csproj|d:\\c#\\bth3_trinhhoa_23520508\\bai05\\bai05\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB361D83-A3FA-47A2-BF1D-F506D1296E64}|Bai05\\Bai05.csproj|solutionrelative:bai05\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB361D83-A3FA-47A2-BF1D-F506D1296E64}|Bai05\\Bai05.csproj|d:\\c#\\bth3_trinhhoa_23520508\\bai05\\bai05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB361D83-A3FA-47A2-BF1D-F506D1296E64}|Bai05\\Bai05.csproj|solutionrelative:bai05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\AppData\\Local\\Temp\\fe8ee0e2-a57d-4d19-80ee-a4c2c0a865ab_BTH3.zip.5ab\\BTH3\\05\\05\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\fe8ee0e2-a57d-4d19-80ee-a4c2c0a865ab_BTH3.zip.5ab\\BTH3\\05\\05\\MainForm.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\fe8ee0e2-a57d-4d19-80ee-a4c2c0a865ab_BTH3.zip.5ab\\BTH3\\05\\05\\MainForm.cs [Read Only]",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:46:46.594Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\BTH3_TrinhHoa_23520508\\Bai05\\Bai05\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Bai05\\Form1.Designer.cs",
+              "ToolTip": "D:\\C#\\BTH3_TrinhHoa_23520508\\Bai05\\Bai05\\Form1.Designer.cs",
+              "RelativeToolTip": "Bai05\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:19:15.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#\\BTH3_TrinhHoa_23520508\\Bai05\\Bai05\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai05\\Form1.cs",
+              "ToolTip": "D:\\C#\\BTH3_TrinhHoa_23520508\\Bai05\\Bai05\\Form1.cs",
+              "RelativeToolTip": "Bai05\\Form1.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAiwEsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:05:59.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\BTH3_TrinhHoa_23520508\\Bai05\\Bai05\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai05\\Form1.cs",
+              "ToolTip": "D:\\C#\\BTH3_TrinhHoa_23520508\\Bai05\\Bai05\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai05\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:03:36.898Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
