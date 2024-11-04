@@ -1,0 +1,15 @@
+D:\C#\testmedia1\testmedia1\bin\Debug\testmedia1.exe.config
+D:\C#\testmedia1\testmedia1\bin\Debug\testmedia1.exe
+D:\C#\testmedia1\testmedia1\bin\Debug\testmedia1.pdb
+D:\C#\testmedia1\testmedia1\bin\Debug\Interop.WMPLib.dll
+D:\C#\testmedia1\testmedia1\bin\Debug\AxInterop.WMPLib.dll
+D:\C#\testmedia1\testmedia1\obj\Debug\testmedia1.csproj.AssemblyReference.cache
+D:\C#\testmedia1\testmedia1\obj\Debug\Interop.WMPLib.dll
+D:\C#\testmedia1\testmedia1\obj\Debug\AxInterop.WMPLib.dll
+D:\C#\testmedia1\testmedia1\obj\Debug\testmedia1.csproj.ResolveComReference.cache
+D:\C#\testmedia1\testmedia1\obj\Debug\testmedia1.Form1.resources
+D:\C#\testmedia1\testmedia1\obj\Debug\testmedia1.Properties.Resources.resources
+D:\C#\testmedia1\testmedia1\obj\Debug\testmedia1.csproj.GenerateResource.cache
+D:\C#\testmedia1\testmedia1\obj\Debug\testmedia1.csproj.CoreCompileInputs.cache
+D:\C#\testmedia1\testmedia1\obj\Debug\testmedia1.exe
+D:\C#\testmedia1\testmedia1\obj\Debug\testmedia1.pdb
